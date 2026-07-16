@@ -4,6 +4,8 @@
 
 This project focuses on analyzing Superstore sales data to identify important sales trends and business insights. The analysis explores sales performance across different categories, regions, customer segments, products, and states.
 
+![Superstore Sales Dashboard](Dashboard.png)
+
 Python was used for data cleaning, analysis, and visualization, while Power BI was used to create an interactive dashboard.
 
 ## 🛠️ Tools Used
